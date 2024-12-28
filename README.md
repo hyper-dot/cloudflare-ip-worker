@@ -14,11 +14,6 @@ IP Worker is a lightweight Cloudflare Worker that provides the client's IP addre
 ## Prerequisites
 
 1. **Cloudflare Account**: Create an account at [Cloudflare](https://www.cloudflare.com/).
-2. **Wrangler CLI**: Install Wrangler, Cloudflare's CLI tool:
-   ```bash
-   npm install -g wrangler
-   ```
-
 ---
 
 ## Getting Started
